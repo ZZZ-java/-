@@ -1,0 +1,10 @@
+   </div>     
+                      <div class="s_userinput_y">
+                      	<span><img alt="" src="${contextPath}/imes/base/images/web_password3.png" align="middle"> </span>
+                        <input class="login_input" id="password" name="password" type="password" placeholder="密码" vtype="notnull"/>
+                      
+                        <!-- <input id="password" name="password" type="password" value="" vtype="notnull" style="display: none;" onblur="change(this)"/> -->
+                      </div>
+					<div class="s_userinput_x" style="margin-left: 60px;">
+						<div id="verify"></div>
+					</div>
